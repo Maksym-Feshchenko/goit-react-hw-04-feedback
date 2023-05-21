@@ -1,0 +1,35 @@
+.statistics {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .statisticsHeading {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .statisticsItem {
+    font-size: 18px;
+    color: #555;
+  }
+  
+  .totalFeedback {
+    font-weight: bold;
+  }
+  
+  .positiveFeedback {
+    color: #11ff00;
+  }
+  
+  .negativeFeedback {
+    color: #db4437;
+  }
+  
+  .neutralFeedback {
+    color: #4285f4;
+  }
+      
